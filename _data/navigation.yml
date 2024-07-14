@@ -1,5 +1,9 @@
-# main:
-#   - title: "Home"
-#     url: /
-#   - title: "Posts"
-#     url: /posts/
+main:
+  - title: "Home"
+    url: /
+  - title: "Career"
+    url: /career/
+  - title: "Projects"
+    url: /projects/
+  # - title: "Posts"
+  #   url: /posts/
